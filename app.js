@@ -24,22 +24,81 @@
 
 
 // var time = +prompt('Введите время')
-
-// switch(true) {
-//     case time<=6:
-//         alert(time + ' часов ночи')
-//         break;
-//     case time>=7 && time<=10:
-//         alert(time + ' часов утра')
-//         break;
-//     case time>=11 && time<=17:
-//         alert(time + ' часов дня')
-//         break;
-//     case time>=18 && time<=23:
-//         alert(time + ' часов вечера') 
-//         break;
-//     default:
-//         alert(' Введите время !!!!!!!!')
+// switch(time) {
+// case 1: 
+// alert('сейчас время ' +  time +   ' ночи')
+// break;
+// case 2: 
+// alert('сейчас время ' +  time +   ' ночи')
+// break;
+// case 3: 
+// alert('сейчас время ' +  time +   ' ночи')
+// break;
+// case 4: 
+// alert('сейчас время ' +  time +   ' ночи')
+// break;
+// case 5: 
+// alert('сейчас время ' +  time +   ' ночи')
+// break;
+// case 6: 
+// alert('сейчас время ' +  time +   ' утра')
+// break;
+// case 7: 
+// alert('сейчас время ' +  time +   ' утра')
+// break;
+// case 8: 
+// alert('сейчас время ' +  time +   ' утра')
+// break;
+// case 9: 
+// alert('сейчас время ' +  time +   ' утра')
+// break;
+// case 10: 
+// alert('сейчас время ' +  time +   ' утра')
+// break;
+// case 11: 
+// alert('сейчас время ' +  time +   ' утра')
+// break;
+// case 12: 
+// alert('сейчас время ' +  time +   ' дня')
+// break;
+// case 13: 
+// alert('сейчас время ' +  ' 1 ' +   ' дня')
+// break;
+// case 14: 
+// alert('сейчас время ' +  ' 2 ' +   ' дня')
+// break;
+// case 15: 
+// alert('сейчас время ' +  ' 3 ' +   ' дня')
+// break;
+// case 16: 
+// alert('сейчас время ' +  ' 4 ' +   ' дня')
+// break;
+// case 17: 
+// alert('сейчас время ' +  ' 5 ' +   ' дня')
+// break;
+// case 18: 
+// alert('сейчас время ' +  ' 6 ' +   ' вечера')
+// break;
+// case 19: 
+// alert('сейчас время ' +  ' 7 ' +   ' вечера')
+// break;
+// case 20: 
+// alert('сейчас время ' +  ' 8 ' +   ' вечера')
+// break;
+// case 21: 
+// alert('сейчас время ' +  ' 9 ' +   ' вечера')
+// break;
+// case 22: 
+// alert('сейчас время ' +  ' 10 ' +   ' вечера')
+// break;
+// case 23: 
+// alert('сейчас время ' +  ' 11 ' +   ' вечера')
+// break;
+// case 24: 
+// alert('сейчас время ' +  ' 12 ' +   ' ночи')
+// break;
+// default:
+//     alert('Error')
 // }
 
 
